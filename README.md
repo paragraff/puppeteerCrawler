@@ -8,5 +8,7 @@ Create env.json with parameters:
  - urlToCrowl - page url for crowling
  - pathToBrowserUserData - if you want to store browser user data
  - validationRequestUrl - if page has anti scraping defense and you want to know its protocol
+ 
+Run script `node index.js`.
 
 [here]: https://github.com/paulirish/headless-cat-n-mouse
